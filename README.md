@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pablotango
 - 👀 I’m interested in R and Python
-- 🌱 I’m currently learning Rand Python
+- 🌱 I’m currently learning R and Python
 - 📫 How to reach me 
 
 <!---
