@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pablotango
-- 👀 I’m interested in R
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on R, IsoplotR, Provenance
+- 👀 I’m interested in R and Python
+- 🌱 I’m currently learning Rand Python
 - 📫 How to reach me 
 
 <!---
